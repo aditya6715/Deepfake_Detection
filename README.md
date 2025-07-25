@@ -1,6 +1,6 @@
 # Deepfake detection using Deep Learning (ResNext and LSTM)
 
-## Give a Star⭐ to repo and Don't forget to <a href="https://www.buymeacoffee.com/abhijitjadhav" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> 
+
 
 </a>
 
@@ -87,9 +87,6 @@ Deepfake_detection_using_deep_learning
    2. Hitendra Patil
    3. Abhishek Patange
    
-## 7. License
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## 8. We welcome Open Source Contribution. 
 ### Below are the some changes that can be applied to the project. New Ideas will be appreciated.
@@ -101,4 +98,4 @@ Deepfake_detection_using_deep_learning
 - [X] Dockerizing the app
 - [X] Enabling working of project on Non Cuda Computers. i.e on normal or AMD GPUs
 
-## 9. Dont forget to Star⭐ this repo 😉 and  <a href="https://www.buymeacoffee.com/abhijitjadhav" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> 
+
